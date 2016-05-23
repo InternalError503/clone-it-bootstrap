@@ -1,6 +1,5 @@
-content clone-it chrome/content/
+content clone-it ./
 skin clone-it classic/1.0 chrome/skin/
-overlay chrome://browser/content/browser.xul chrome://clone-it/content/clone-it.xul
 
 #Locales
 locale clone-it da chrome/locale/da/

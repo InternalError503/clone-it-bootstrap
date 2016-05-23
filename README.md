@@ -15,3 +15,5 @@ This feature is already available by holding down CTRL key | Command + dragging 
 - Clone current tab in new tab. 
 - Clone current tab in new window. 
 - After install these 2 customizable buttons are available.
+
+No menu items only toolbar buttons.
